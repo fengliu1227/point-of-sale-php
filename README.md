@@ -44,7 +44,7 @@ scan("AAAAAAAABB") -> 8As 2Bs</br>
 
 ### 1.style of this API
 
-
+![image](https://github.com/fengliu1227/point-of-sale-php/blob/master/layout.png)
 When the application starts, it will print the main with price.
 
 
